@@ -1,0 +1,17 @@
+{
+  "name": "projekty-cypress",
+  "version": "1.0.0",
+  "description": "Nauka automatyzacji testów",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "automatyzacja"
+  ],
+  "author": "Grzegorz Kołodziej",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.7.2"
+  }
+}
